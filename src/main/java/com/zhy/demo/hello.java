@@ -10,5 +10,6 @@ public class hello {
         System.out.println("hot-fix test");
         System.out.println("remote test");
         System.out.println("home test");
+        System.out.println("gitee test");
     }
 }
